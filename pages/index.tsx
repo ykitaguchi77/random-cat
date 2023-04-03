@@ -1,3 +1,7 @@
+//https://typescriptbook.jp/tutorials/nextjs
+//Vercelへのデプロイ　https://reffect.co.jp/react/next-js-github-vercel
+
+
 import { NextPage } from "next";
 import { useEffect, useState } from "react";
 import styles from "./index.module.css";
